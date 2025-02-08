@@ -19,6 +19,25 @@ For this project, you will write a Packer template and a Terraform template to d
 ### Instructions
 **Your words here**
 
+Creating the Packer File
+
+
+
+
+
+
+The terraform file creates the following resources:
+
+- Create a virtual network and subnet in the Resource Group ( The resource group, i previously created. Made the reference in the tf file)
+- Creates a network security group, with some explicitly defined allow and deny rules
+- Creates a network interface
+- Creates a public IP
+- Creates a load balancer
+- Creates a virtual machine availability set
+- Creates virtual machines.
+-   Referenced the packer image in my resource group
+-   Creates managed disks for my virtual machines
+
 - Virtual machine count can be modified by changing the vm_count variable in the variables.tf file
 - 
 
