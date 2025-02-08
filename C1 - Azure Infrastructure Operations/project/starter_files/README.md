@@ -19,6 +19,9 @@ For this project, you will write a Packer template and a Terraform template to d
 ### Instructions
 **Your words here**
 
+- Virtual machine count can be modified by changing the vm_count variable in the variables.tf file
+- 
+
 ### Output
 **Your words here**
 
