@@ -39,6 +39,8 @@ The terraform file creates the following resources:
 -   Referenced the packer image in my resource group
 -   Creates managed disks for my virtual machines
 
+Customize the var file:
+
 - Virtual machine count can be modified by changing the vm_count variable in the variables.tf file
 - 
 
