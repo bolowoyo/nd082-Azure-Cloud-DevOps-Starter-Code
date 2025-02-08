@@ -23,7 +23,8 @@ Creating the Packer File
 
 - Please check server.json to see final file.
 - Run packer build server.json to build the packer image
-- 
+- Created a resource group, made reference to it in the packer file
+- Put a name for the final packer file
 
 
 The terraform file creates the following resources:
