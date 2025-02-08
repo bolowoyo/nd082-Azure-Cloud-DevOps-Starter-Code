@@ -21,9 +21,7 @@ For this project, you will write a Packer template and a Terraform template to d
 
 Creating the Packer File
 
-
-
-
+- Please check server.json to see final file. 
 
 
 The terraform file creates the following resources:
